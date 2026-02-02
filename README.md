@@ -1,4 +1,4 @@
-# Smart-Social-Media-Dashboard-with-Live-Sentiment-Analysis
+#Real-Time Social Media Sentiment Analytics DashBoard 
 
 
 📑Introduction:
